@@ -1,0 +1,7 @@
+ # file: ~/.gitignore_global
+*.idea
+*CMakeLists.txt
+*cmake-build-debug
+*.aux
+*.log
+*synctex.gz
