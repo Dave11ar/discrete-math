@@ -1,1 +1,1 @@
-Conditions are in folders in pdf because of bad encoding
+# Conditions are in folders in pdf because of bad encoding
